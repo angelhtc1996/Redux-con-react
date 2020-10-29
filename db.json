@@ -1,16 +1,6 @@
 {
   "productos": [
     {
-      "id": 1,
-      "nombre": "Jugo de Zanahoria",
-      "precio": "31111"
-    },
-    {
-      "id": 2,
-      "nombre": "Jugo de Naranja",
-      "precio": "1"
-    },
-    {
       "nombre": "Jugo de Naranja",
       "precio": "300",
       "id": 3
@@ -39,6 +29,21 @@
       "nombre": "coffee",
       "precio": 350,
       "id": 8
+    },
+    {
+      "nombre": "Urban",
+      "precio": 1212,
+      "id": 9
+    },
+    {
+      "nombre": "bchgccgfc",
+      "precio": 55444,
+      "id": 10
+    },
+    {
+      "nombre": "qwqwjsbjfjwdkq",
+      "precio": 121212,
+      "id": 11
     }
   ]
 }
