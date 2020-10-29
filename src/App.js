@@ -5,7 +5,7 @@ import NuevoProducto from './components/NuevoProducto';
 import EditarProducto from './components/EditarProducto';
 
 import { BrowserRouter as Router, Route, Switch} from 'react-router-dom';
-
+ 
 //importamos redux
 import { Provider }from 'react-redux';
 import store from './store';

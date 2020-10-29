@@ -24,3 +24,4 @@ export function ocultarAlertaAction() {
 const ocultarAlerta = () => ({
     type: OCULTAR_ALERTA
 })
+ 

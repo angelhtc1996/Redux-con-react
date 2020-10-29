@@ -6,7 +6,7 @@ import {
 // Cada reducer tiene su state
 const initialState = {
     alerta: null
-}
+} 
 
 export default function(state = initialState, action) {
     switch(action.type) {

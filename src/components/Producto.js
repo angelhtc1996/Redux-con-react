@@ -60,5 +60,5 @@ const Producto = ({producto}) => {
         </tr>
      );
 }
- 
+  
 export default Producto;

@@ -20,7 +20,7 @@ const NuevoProducto = ({history}) => {
 
     //mandar a llamar el action de productoAction
     const agregarProducto = producto => dispatch( crearNuevoProductoAction(producto) )
-
+ 
     //cuando el usuario haga submit
     const submitNuevoProducto = e => {
         e.preventDefault();
