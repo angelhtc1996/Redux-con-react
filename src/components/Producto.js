@@ -1,6 +1,7 @@
 import React from 'react';
 import { useHistory } from 'react-router-dom';
 import Swal from 'sweetalert2';
+import logo from '../assets/img/ensalada.jpeg'
 
 
 // Redux
@@ -42,6 +43,7 @@ const Producto = ({producto}) => {
 
     return ( 
         <tr>
+            <td><img src={logo} alt="logo" className="img-fluid img-producto"/></td>
             <td>{nombre}</td>
             <td><span className="font-weight-bold"> $ {precio} </span></td>
             <td className="acciones">

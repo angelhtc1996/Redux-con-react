@@ -55,6 +55,10 @@ const NuevoProducto = ({history}) => {
                             onSubmit={submitNuevoProducto}
                         >
                             <div className="form-group">
+                                <input 
+                                type="file"
+                                className="d-block file-archi"
+                                />
                                 <label>Nombre Producto</label>
                                 <input
                                     type="text"

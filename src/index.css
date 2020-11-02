@@ -11,6 +11,9 @@ body {
   font-size: 16px;
 }
 
+td, th {
+  text-align: center;
+}
 h1 a {
   font-size: 1.8rem;
 }
@@ -21,6 +24,12 @@ h1 a.text-light:hover {
 .nuevo-post{
   font-weight: bold;
   text-transform: uppercase;
+}
+
+.img-producto {
+  width: 50px;
+  margin: auto;
+  display: block;
 }
  
 .btn {

@@ -33,6 +33,7 @@ const Productos = () => {
            <table className="table table-striped">
                <thead className="bg-primary table-dark">
                     <tr>
+                        <th scope="col">Imagenes</th>
                         <th scope="col">Nombre</th>
                         <th scope="col">Precio</th>
                         <th scope="col">Acciones</th>

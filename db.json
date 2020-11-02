@@ -1,36 +1,37 @@
 {
   "productos": [
     {
-      "nombre": "Jugo de Naranja",
-      "precio": "300",
-      "id": 3
-    },
-    {
+      "img": "https://ibb.co/QjWxDf7",
       "nombre": "Rib Eye 800g",
       "precio": "200",
       "id": 4
     },
     {
+      "img": "https://ibb.co/f02KbRR",
       "nombre": "Jugo de Fresa",
       "precio": "200",
       "id": 5
     },
     {
+      "img": "https://ibb.co/jhK0Grc",
       "nombre": "Urban",
       "precio": 344335,
       "id": 6
     },
     {
+      "img": "https://ibb.co/hsP3QhM",
       "nombre": "Urban",
       "precio": 40000,
       "id": 7
     },
     {
+      "img": "https://ibb.co/hsP3QhM",
       "nombre": "coffee",
       "precio": 350,
       "id": 8
     },
     {
+      "img": "https://ibb.co/ygt72VP",
       "nombre": "Urban",
       "precio": 1212,
       "id": 9
@@ -44,6 +45,11 @@
       "nombre": "qwqwjsbjfjwdkq",
       "precio": 121212,
       "id": 11
+    },
+    {
+      "nombre": ",u6erd7646xr7ytd4fk7",
+      "precio": 4444.9987,
+      "id": 12
     }
   ]
 }
